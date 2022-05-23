@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawzinthant22&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzinthant22" /> </p>
 
-- 🌱 I’m currently learning **Reactjs , Material UI**
+- 🌱 I’m currently learning **Reactjs , Tailwind Css*
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyawZinThant22?tab=repositories](https://github.com/KyawZinThant22?tab=repositories)
 
