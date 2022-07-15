@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm Kyaw Zin Thant</h1>
+### Hi,Mingalarpar! 👋
 
+<a href="https://www.linkedin.com/in/kyaw-zin-thant-303342202/">
+  <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/KyawZinThant22">
+  <img align="left" alt="Wai Yan Kyaw's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100072437530178">
+  <img align="left" alt="Wai Yan Kyaw's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawzinthant22&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzinthant22" /> </p>
+<br/>
+<br/>
 
-- 🌱 I’m currently learning **Reactjs , Tailwind Css*
+🔭 I’m currently working as a freelance frontend developer.<br>🌱 I’m currently studying to become a software developer.<br>💬 Ask me about React , Typescript<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KyawZinThant22?tab=repositories](https://github.com/KyawZinThant22?tab=repositories)
-
-- 📫 How to reach me **kyawthant035@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kyaw-zin-thant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyaw-zin-thant" height="30" width="40" /></a>
+**Programming Languages** 
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javscript">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+**Skills and Tools**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="ReactJS">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+</p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawzinthant22&show_icons=true&locale=en&layout=compact" alt="kyawzinthant22" /></p>
-
+![](https://github-readme-stats.vercel.app/api?username=kyawzinthant22&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
