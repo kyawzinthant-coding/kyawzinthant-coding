@@ -1,7 +1,6 @@
-# 💫 About Me:
-👨‍💻 I'm Kyaw ZIn thant, a full-time full-stack developer 👨‍💻<br>🔭 I’m currently larning MERN stack .<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact : I use tabs over spaces
+# 💫  I'm Kyaw ZIn thant, a full-time full-stack developer 
+<br>🔭 I’m currently larning MERN stack .<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact : I use tabs over spaces
 
-[![](https://visitcount.itsvg.in/api?id=KyawZinThant22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyaw-zin-thant-303342202/) 
