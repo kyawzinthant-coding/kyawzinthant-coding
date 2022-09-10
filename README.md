@@ -1,4 +1,4 @@
-# 💫  I'm Kyaw ZIn thant, a full-time full-stack developer 
+# 💫  I'm Kyaw ZIn thant, a full-time Frontend develiper at Xsphere
 <br>🔭 I’m currently larning MERN stack .<br>💬 Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact : I use tabs over spaces
 
 
