@@ -1,7 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Xsphere.<br>🤝  I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning Computer Science.<br>💬  Ask me about Reactjs.<br>⚡ How to reach me kyawthant035@gmail.com<br>
 
+# CodewarsBadge
+My Codewars Badge:
 
+![image](https://www.codewars.com/users/Kyaw%20Zin%20Thant/badges/large)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kyaw-zin-thant-303342202/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KyawVer) 
 
