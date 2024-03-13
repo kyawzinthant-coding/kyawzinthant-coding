@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 19 year old aspring software enginner.
 🔭 I’m currently working on Xsphere.<br>🤝  I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning Computer Science.<br>💬  Ask me about Reactjs.<br>⚡ How to reach me kyawthant035@gmail.com<br>
 
 # CodewarsBadge
