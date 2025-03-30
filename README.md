@@ -17,7 +17,12 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawzinthant-coding&langs_count=8&hide=Makefile,Svelte,CMake,Jupyter%20Notebook,HTML,CSS,Dart,GDScript,Shell,Javascript,Swift&theme=dracula&border_radius=20&layout=compact"/>
     </td>
-   
+
+   <td>
+   <td>
+            <img align="center" src="https://leetcard.jacoblin.cool/kyawthant035?theme=dark&font=Yuji%20Syuku"/>
+        </td>
+   </td>
   </tr>
 
 </table>
