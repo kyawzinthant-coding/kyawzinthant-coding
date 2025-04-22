@@ -8,7 +8,6 @@
   <a href="https://wakatime.com/@faa8018e-33e8-4637-a115-b99200eca9ee"><img src="https://wakatime.com/badge/user/faa8018e-33e8-4637-a115-b99200eca9ee.svg" alt="Total time coded since Dec 19 2022" /></a>
   <br/>
   <br/>
- 
 </p>
 
 
