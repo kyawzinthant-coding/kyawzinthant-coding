@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to my Github! </h1>
 
 <p align="center">
- Kyaw is fond of working together with like-minded persons through planning and managing to reach common goals. Kyaw is  good at communicating with other people, and he also possesses soft leadership and managing skills. He is an open-minded and optimistic person who's always looking to help other people.
+👋 Hi, I'm Kyaw – a collaborative and goal-driven individual who enjoys working with like-minded people to achieve shared objectives. I'm skilled in communication, soft leadership, and project management, and I value clear planning and teamwork.
+
+I'm an open-minded and optimistic person, always eager to grow, support others, and contribute to meaningful work. Whether it's through coding, organizing, or problem-solving, I'm here to make a positive impact
 </p>
 
 <p align="center">
