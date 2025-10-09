@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kyaw Zin Thant
 
-> I’m a passionate Full-Stack Web Developer based in **Yangon, Myanmar**, currently studying at **Info Myanmar College**.
+> I’m a passionate Software Engineer based in **Yangon, Myanmar**, currently studying at **Info Myanmar College**.
 
 <p align="center">
   <a href="https://wakatime.com/@faa8018e-33e8-4637-a115-b99200eca9ee">
