@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Kyaw Zin Thant
 
-> I’m a passionate Software Engineer based in **Yangon, Myanmar**, currently studying at **Info Myanmar College**.
 
 <p align="center">
   <a href="https://wakatime.com/@faa8018e-33e8-4637-a115-b99200eca9ee">
@@ -21,15 +20,6 @@
   <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyawzinthant-coding&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true" alt="Top Languages by Commit" />
   <img width="50%" src="https://leetcard.jacoblin.cool/kyawthant035?theme=dark&font=Yuji%20Syuku" alt="LeetCode Stats" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m **actively seeking** for full stack development role  
-- 🌱 Currently learning **Cloud Computing & AWS**  
-- 👯 Open to collaborate on **Full-Stack Web Projects**  
-- 📫 Reach me at: **kyawthant035@gmail.com**
 
 ---
 
