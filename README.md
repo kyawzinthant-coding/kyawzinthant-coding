@@ -22,16 +22,15 @@ I'm a backend-focused software developer currently working at **[Krafit.io](http
 - 🏢 **Software Developer** at [Krafit.io](https://krafit.io) — building backend systems with **Go** and **TypeScript / Next.js**
 - 🦫 Deepening my expertise in **Go** for production backend development
 - 🧠 Regularly solving problems on **LeetCode** and **Codewars** to sharpen algorithmic thinking
-- 🏆 **1st Runner-Up** at Code2Career Hackathon — built **FloodSync**, a real-time disaster management platform for Myanmar flood events (out of 40 teams)
+- 🏆 **1st Runner-Up** at Code2Career Hackathon — built **FloodSync**, a real-time disaster management platform for Myanmar flood events 
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
